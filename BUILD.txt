@@ -3,9 +3,9 @@ FFmpeg Corresponding Source — Build Identification
 
 This file documents the EXACT FFmpeg builds whose complete corresponding source
 code is provided in this repository (see Releases for the source archives), so
-anyone can identify and reproduce the exact builds bundled with Songnara Studio
-/ NEX AI. All binaries were compiled with --enable-gpl (GPL v2-or-later), which
-is why the complete corresponding source is offered here.
+anyone can identify and reproduce the exact builds we distribute. All binaries
+were compiled with --enable-gpl (GPL v2-or-later), which is why the complete
+corresponding source is offered here.
 
 [1] macOS — ffmpeg 8.0.1 (arm64 + x64)
     Build provider : martin-riedl.de FFmpeg builds
